@@ -1,0 +1,23 @@
+A criação e a Evoluçao do HTML
+Em 1990 Tim Bernes Lee,criou protocolgo HTPP e o HTML e antes disso existia o GOPHER uma tela preta com letras branca opções que voce navega pelo teclado e acessava areas expecificas do site.
+Apos a criação do HTML,por Tim Berners-Lee foi sujerido  o padrão de Documentos criados por hipertexto.
+Em 06 de Agosto de 1991 foi criado o primeiro Web Site com este padrão novo de hipertexto.Esta ativo até hoje.
+Já nesta época eram necessários os navegadores para acessar estes sites ex>itam entao  o :MIDASwwww,VIOLAwwww,CELO.Mas em 1992 surge um navegador que vira um sucesso o MOSAIC,e foi desenvolvido no NCSA na faculdade de Linoys , e fica um sucesso durante dois anos,ele tinha possibilidade de mostrar todo conteúdo de multimidia (textos,links e imagens).
+Então em 1994 os desenvolvedores da NCSA sairam do orgão para criar algo maior,  e montaram a sua propria empresa NETSCAPE que foi a evoluão do MOSAIC.
+Nesta decada de 90,surgiram muitos navegadores como:IBM WebExplorer,UDIwwww, e tambem o em 1995 Internet Explorer da Microsoft.
+Com uma jogada da Microsoft ,ja enviando o Internet  Explorer o fazendo em 1996  ele sendo o Navegador mais usado.Causando assim uma ação da parte da NETSCAPE  contra a Microsoft de forçãrem os usuarios a ustilzar o Internet Explorer, o juiz deu causa ganha para a NETSCAPE,forçand a Microsoft retirar a instalação ddo  navegador no seu sistema opercional,mas a esta altura a Microsoft ja tinha a maior parte do mercado,e muitos usuarios abandonaram a NESCAPE.
+Em 1998 a NETSCAPE estava em situação grave,e em 1999 a empresa foi vendida para AOL(America Online),mas o devenvolvimento do Navegador estava comprometido.
+Pensando nisso,os programadores que ja vieram juntos desde a época do MOSAIC,e criaram também a NTESCAPE,se ajuntaram e criaram uma outra fundação a MOZILLA,e criaram o Navegador MozillaFireFox por quase dez anos este Nevagador dominou o mercado e ainda é muito utilizado até hoje,sendo o segundo no mercado .
+Porém em 2008 uma outra empresa entrou no pareo a Google, e lançou o GoogleChrome,o tornando hoje o Navegador mais utiizado hoje.
+
+A Primeira Versão do HTML
+A Primeira versão que foi criada em 1990 por Tim Berners-Lee,e sua equipe,era bastante simples,tinha poucas funcionalidades,mas era muito útil pois implementava o sistema  de hipertexto,que era bem atrativo.E esta versão ficou ativa por cinco anos.
+Em 1995 ,foi criada a segunda versão do HTML,que agora fica a cargo de um grupo chamado,HTML Working Group. Essa segunda versão ganhou cada vez mais adeptos,e as empresas de construção de Navegadores ja começavam axiliar na criação da linguagem.
+O grande problema nesse auxilio das empresas de Navegadores, é que cada empresa queria usar a sua proprias tags expecificas pra uso no seu proprio Navegador.Este foi um grande problema que a versão 2 do HTML teve,e por isto no mesmo ano em 1995 foi proposta a verão 3 do HTML,em 1995.
+So que desta vez tudo teria o controle  de consorcio W3C,que seria gerenciado pelo proprio Tim Berners-Lee.Esta versão 3 não chegou a existir por ,muito tempo porque  em 1997 foi lançado a versão 4 do HTML.
+Esta versão 4 do HTML ficou conhecdida por muitos anos e somente em 2004,a W3C lançaria o XHTML.
+E após este anuncio as empresas que construiram seus sites atraves do HTML4 ficaram preocupadas. E aproveitando deste momento a APLLE,OPERA,MOZZILA criaram o grupo WhatWG,a função desse grupo era evoluir a linguagem HTML sem se preocupar com a opnião do W3C.
+Em 2007 ,a versao do XHTML chegava a sua segunda versão,mas o grupo WhatWG já tinha desenvolvido uma nova proposta para o W3C,e o projeto tinha ficado muito bom,e o mais importante tinha retro-compatilidade com o HTML4. Fazendo assim em 2007 o W3C desconsiderar a segunda versão do XHTML,e anunciando assim a versão 5 do HTML,voltando a numeração antiga, inspirado no trabalho do grupo WhatWG.
+Em 2008 foi lançado o primeiro WorkingDraf da versao HTML5 e em 2013 a versão 5 ja estava sendo utilizado nas maiorias de sites, e uma das principais diferenças desta versão é a sepração total entre:Semantica,Estilo e Interatividade.
+Sendo assim tudo que é feito em HTML 5 é semantico,tem significado,todas formatações serão feito por outra tecnologia o CSS que está na versão 3,e a enteratividade com as paginas é feita pelo JavaScript.
+
